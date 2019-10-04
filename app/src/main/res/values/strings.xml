@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">mathApp</string>
+    <string name="name_field">Name:</string>
+    <string name="score_field">Score:</string>
+    <string name="opening_zero">0</string>
+    <string name="go_button">Go</string>
+    <string name="title_text">Multiply!</string>
+</resources>
